@@ -326,6 +326,14 @@ header .search-bar-container label:hover{
   color:#333;
   text-transform: none;
 }
+.book .row form select{
+  width:100%;
+  padding:1rem;
+  border:.1rem solid rgba(0,0,0,.1);
+  font-size: 1.7rem;
+  color:#333;
+  text-transform: none;
+}
 
 .book .row form .inputBox h3{
   font-size: 2rem;
@@ -554,7 +562,7 @@ header .search-bar-container label:hover{
 }
 
 .footer{
-  background:rgb(36, 7, 199);
+  background:rgb(20, 3, 116);
 }
 
 .footer .box-container{
@@ -687,7 +695,6 @@ header .search-bar-container label:hover{
   }
 }
 /*Login css*/
-/* Made with love by Mutiullah Samim*/
 
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
@@ -775,4 +782,5 @@ color: white;
 
 .links a{
 margin-left: 4px;
+
 }
